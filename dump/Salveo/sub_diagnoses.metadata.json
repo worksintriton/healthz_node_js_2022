@@ -1,0 +1,1 @@
+{"indexes":[{"v":{"$numberInt":"2"},"key":{"_id":{"$numberInt":"1"}},"name":"_id_"}],"uuid":"234aae77177e4d0db313afb5de6a5c01","collectionName":"sub_diagnoses"}

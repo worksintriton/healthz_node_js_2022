@@ -1,0 +1,161 @@
+{
+          "Banner_details": [
+          {
+              "_id" : "1231231",
+              "title" : "banner - 1",
+              "img_path" : "http://mysalveo.com/api/uploads/images.jpeg"
+          },
+          {
+              "_id" : "1231231",
+              "title" : "banner - 2",
+              "img_path" : "http://mysalveo.com/api/uploads/images.jpeg"
+          },
+          {
+              "_id" : "1231231",
+              "title" : "banner - 3",
+              "img_path" : "http://mysalveo.com/api/uploads/images.jpeg"
+          }
+        ],
+          "Doctor_details" : [
+                {
+                  "_id":"12345678909865432",
+                  "doctor_name" : "Dr Mohammed imthiyas",
+                  "doctor_img" :"http://52.25.163.13:3000/api/uploads/icons.png",
+                  "specialization" : [{"specialization":"spec - 1"},{"specialization":"spec - 2"},{"specialization":"spec - 3"},{"specialization":"spec - 4"}],
+                  "star_count" : 4 ,
+                  "review_count" : 223
+                },
+                {
+                  "_id":"12345678909865432",
+                  "doctor_name" : "Dr Mohammed imthiyas",
+                  "doctor_img" :"http://52.25.163.13:3000/api/uploads/icons.png",
+                  "specialization" : [{"specialization":"spec - 1"},{"specialization":"spec - 2"},{"specialization":"spec - 3"},{"specialization":"spec - 4"}],
+                  "star_count" : 4 ,
+                  "review_count" : 223
+                },
+                {
+                  "_id":"12345678909865432",
+                  "doctor_name" : "Dr Mohammed imthiyas",
+                  "doctor_img" :"http://52.25.163.13:3000/api/uploads/icons.png",
+                  "specialization" : [{"specialization":"spec - 1"},{"specialization":"spec - 2"},{"specialization":"spec - 3"},{"specialization":"spec - 4"}],
+                  "star_count" : 4 ,
+                  "review_count" : 223
+                },
+                {
+                  "_id":"12345678909865432",
+                  "doctor_name" : "Dr Mohammed imthiyas",
+                  "doctor_img" :"http://52.25.163.13:3000/api/uploads/icons.png",
+                  "specialization" : [{"specialization":"spec - 1"},{"specialization":"spec - 2"},{"specialization":"spec - 3"},{"specialization":"spec - 4"}],
+                  "star_count" : 4 ,
+                  "review_count" : 223
+                }
+          ],
+          "Service_details" : 
+          [
+            {
+              "_id":"123456",
+              "service_icon":"http://52.25.163.13:3000/api/uploads/1.jpeg",
+              "service_title":"Grooming",
+              "background_color":"#00FFA2"
+            },
+            {
+              "_id":"123456",
+               "service_icon":"http://52.25.163.13:3000/api/uploads/2.jpeg",
+              "service_title":"Bathing",
+              "background_color":"#2980B9"
+            },
+            {
+               "_id":"123456",
+               "service_icon":"http://52.25.163.13:3000/api/uploads/3.jpeg",
+              "service_title":"Training",
+              "background_color":"#45B39D"
+            },
+            {
+             "_id":"123456",
+              "service_icon":"http://52.25.163.13:3000/api/uploads/4.jpeg",
+             "service_title":"Grooming",
+             "background_color":"#00FFA2"
+            }
+          ],
+          "middle_Banner_details": [
+              {
+                  "_id" : "1231231",
+                  "title" : "banner - 1",
+                  "img_path" : "http://54.212.108.156:3000/api/uploads/1620120058802.png"
+              },
+              {
+                  "_id" : "1231231",
+                  "title" : "banner - 2",
+                  "img_path" : "http://54.212.108.156:3000/api/uploads/1620120058802.png"
+              },
+              {
+                  "_id" : "1231231",
+                  "title" : "banner - 3",
+                  "img_path" : "http://54.212.108.156:3000/api/uploads/1620120058802.png"
+              }
+          ],
+           "Products_details" : [
+               {
+                   "_id": "5fec1424ea832e2e73c1fc78",
+                   "img_path": "http://54.212.108.156:3000/api/uploads/1617963875978.jpeg",
+                   "product_cate": "Dog  Food",
+                   "img_index": 0,
+                   "show_status": true,
+                   "date_and_time": "Fri Feb 19 2021 11:06:01 GMT+0530 (India Standard Time)",
+                   "delete_status": true,
+                   "updatedAt": "2021-02-19T05:36:00.643Z",
+                   "createdAt": "2020-12-30T05:46:12.099Z",
+                   "__v": 0
+               },
+               {
+                   "_id": "5fec14a5ea832e2e73c1fc79",
+                   "img_path": "http://54.212.108.156:3000/api/uploads/1617964201280.jpeg",
+                   "product_cate": "Cat Food",
+                   "img_index": 0,
+                   "show_status": true,
+                   "date_and_time": "Thu Feb 18 2021 15:05:46 GMT+0530 (India Standard Time)",
+                   "delete_status": true,
+                   "updatedAt": "2021-02-18T09:35:47.194Z",
+                   "createdAt": "2020-12-30T05:48:21.363Z",
+                   "__v": 0
+               },
+               {
+                   "_id": "5fec1573ea832e2e73c1fc7a",
+                   "img_path": "http://54.212.108.156:3000/api/uploads/1617963875978.jpeg",
+                   "product_cate": "Cow food",
+                   "img_index": 0,
+                   "show_status": true,
+                   "date_and_time": "Thu Feb 18 2021 15:05:55 GMT+0530 (India Standard Time)",
+                   "delete_status": true,
+                   "updatedAt": "2021-02-18T09:35:55.761Z",
+                   "createdAt": "2020-12-30T05:51:47.787Z",
+                   "__v": 0
+               },
+               {
+                   "_id": "5fec22eeea832e2e73c1fc7b",
+                   "img_path": "http://54.212.108.156:3000/api/uploads/1617963875978.jpeg",
+                   "product_cate": "Bird Food",
+                   "img_index": 0,
+                   "show_status": true,
+                   "date_and_time": "Thu Feb 18 2021 15:06:04 GMT+0530 (India Standard Time)",
+                   "delete_status": true,
+                   "updatedAt": "2021-02-18T09:36:04.572Z",
+                   "createdAt": "2020-12-30T06:49:18.019Z",
+                   "__v": 0
+               },
+               {
+                   "_id": "602ccc8518da357d363da7cb",
+                   "img_path": "http://54.212.108.156:3000/api/uploads/1617964223473.jpeg",
+                   "product_cate": "PET COLLARS & LEASHES",
+                   "img_index": 0,
+                   "show_status": true,
+                   "date_and_time": "2/17/2021, 1:27:57 PM",
+                   "delete_status": false,
+                   "updatedAt": "2021-02-17T07:57:57.193Z",
+                   "createdAt": "2021-02-17T07:57:57.193Z",
+                   "__v": 0
+               }
+           ],
+           "Puppy_Products_details" : []
+           
+}
